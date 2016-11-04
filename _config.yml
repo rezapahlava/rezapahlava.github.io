@@ -1,6 +1,6 @@
 
-title: My Resume
-url: 'http://webjeda.com'
+title: Reza Pahlava's Resume
+url: 'http://rezapahlava.com'
 baseurl: '/rezapahlava.github.io' #change it according to your repository name
 
 
@@ -20,10 +20,10 @@ tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: alan.doe@website.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: alandoe
-twitter: '@twittername'
+email: reza.pahlava@gmail.com
+phone: 0812 8810 7315
+website: blog.rezapahlava.com #do not add http://
+linkedin: rezapahlava
+github: rezapahlava
+twitter: '@reza_pahlava'
 
